@@ -6,10 +6,8 @@ expo init helpdesk --npm
 
 ## Style
 
-```
 https://nativebase.io/
 https://docs.nativebase.io/install-expo
-```
 
 ```
 npm install native-base
@@ -24,12 +22,10 @@ expo install react-native-svg
 
 ### Import SVG
 
-```
-
 https://github.com/kristerkari/react-native-svg-transformer
 
+```
  npm install --save-dev react-native-svg-transformer
-
 
 ```
 
@@ -82,4 +78,12 @@ expo install react-native-safe-area-context
 
 expo install expo-font @expo-google-fonts/roboto
 
+```
+
+### Icons
+
+https://phosphoricons.com/
+
+```
+npm install --save phosphor-react-native
 ```
