@@ -29,7 +29,7 @@ https://github.com/kristerkari/react-native-svg-transformer
 
 ```
 
-### Add follow content(metro.config.js)
+### Add follow content to file: (metro.config.js)
 
 ```
 const { getDefaultConfig } = require("expo/metro-config");

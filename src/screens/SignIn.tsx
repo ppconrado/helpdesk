@@ -3,9 +3,10 @@ import { VStack, Heading, Icon, useTheme } from "native-base";
 
 import Logo from "../assets/logo_primary.svg";
 
+import { Envelope, Key } from "phosphor-react-native";
+
 import { Input } from "../components/Input";
 import { Button } from "../components/Button";
-import { Envelope, Key } from "phosphor-react-native";
 
 export function SignIn() {
   const { colors } = useTheme();
