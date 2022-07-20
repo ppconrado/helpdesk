@@ -55,9 +55,9 @@ export function Order({ data, ...rest }: Props) {
         </VStack>
         <Circle bg="gray.500" h={12} mr={5}>
           {data.status === "open" ? (
-            <CircleWavyCheck size={24} color={statusColor} />
-          ) : (
             <Hourglass size={24} color={statusColor} />
+          ) : (
+            <CircleWavyCheck size={24} color={statusColor} />
           )}
         </Circle>
       </HStack>

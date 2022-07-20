@@ -87,3 +87,21 @@ https://phosphoricons.com/
 ```
 npm install --save phosphor-react-native
 ```
+
+### Navigation
+
+https://reactnavigation.org
+
+```
+npm install @react-navigation/native
+
+expo install react-native-screens
+```
+
+### Estrategia de navegação em Pilha (Abrir uma tela sobre a outra)
+
+https://reactnavigation.org/docs/hello-react-navigation
+
+```
+npm install @react-navigation/native-stack
+```
